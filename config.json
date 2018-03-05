@@ -627,6 +627,18 @@
     },
     {
       "core": false,
+      "difficulty": 5,
+      "slug": "go-counting",
+      "topics": [
+        "algorithms",
+        "loops",
+        "conditionals"
+      ],
+      "unlocked_by": "triangle",
+      "uuid": "2e760ae2-fadd-4d31-9639-c4554e2826e9"
+    },
+    {
+      "core": false,
       "difficulty": 6,
       "slug": "alphametics",
       "topics": [
